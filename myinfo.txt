@@ -1,1 +1,2 @@
 Full name: Farrell Hohman
+Department: Computer Science
